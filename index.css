@@ -1,10 +1,12 @@
 @font-face {
   src: url("./fonts/RedHatDisplay-Bold.ttf");
   font-family: "RedHatBold";
+  font-display: swap;
 }
 @font-face {
   src: url("./fonts/RedHatDisplay-Light.ttf");
   font-family: "RedHat";
+  font-display: swap;
 }
 
 * {
